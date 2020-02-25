@@ -2,9 +2,9 @@
 
 Basic Calculator made in pure JavaScript
 
-## Getting Started
+## Live Demo
 
-TBA.
+ https://oanaom.github.io/calculator-js/
 
 ## Built With
 
