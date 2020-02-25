@@ -9,6 +9,7 @@ TBA.
 ## Built With
 
 * [JS]
+* [Particles JS] - A lightweight JavaScript library for creating particles (https://vincentgarreau.com/particles.js/)
 
 ## Authors
 

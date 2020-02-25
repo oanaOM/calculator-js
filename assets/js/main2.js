@@ -76,7 +76,7 @@ function getKeys(){
                 //we need to store the operator
                 calculator.dataset.operator = action;
                 console.log('operator key:');
-                if(firstValue && operator && previousKeyType!='operator'){
+                if(firstValue && operator && previousKeyType!='result'){
                     const calcValue = calculate(firstValue, operator, secondValue);
                     inputDisplay.textContent = calcValue;
                     //update first value with the one in display
