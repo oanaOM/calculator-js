@@ -1,6 +1,6 @@
 # Calculator
 
-Basic Calculator made in pure JavaScript
+Basic Calculator made with pure JavaScript
 
 ## Live Demo
 
